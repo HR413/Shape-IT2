@@ -15,7 +15,7 @@ export default function Navbar(props) {
     return (
         <nav>
             <div class="nav__logo">
-                <a href="#"><img src={Logo} alt="logo" /></a>
+                <img src={Logo} alt="logo" />
             </div>
             <ul class="nav__links">
                 {links.map(link => (
