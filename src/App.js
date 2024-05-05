@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useRef } from 'react';
 import FitnessProgram from "./components/fitnessprograms.component";
 import Footer from "./components/footer.component";
 import Header from "./components/header.component";
